@@ -30,3 +30,8 @@ Configure nginx to jenkins
 To test your config file run below command
 
     nginx -t
+    
+## STEP-5
+ 
+     systemctl reload nginx
+   
