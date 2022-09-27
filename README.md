@@ -7,7 +7,7 @@ Configure nginx to jenkins
 
       vi /etc/nginx/conf.d/jenkins.conf
 
-   
+#copy paste the "jenkins.conf" code here
 
 ## STEP-3
 
